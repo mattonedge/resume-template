@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#1434CB"
         },
         "polygon": {
           "nb_sides": 5
